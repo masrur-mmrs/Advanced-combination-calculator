@@ -1,7 +1,7 @@
 from fractions import Fraction
 while True:
-    n = float(input("Please enter n :) \n"))
-    r = float(input("Please enter r :) \n"))
+    n = float(input("Please enter n : \n"))
+    r = float(input("Please enter r : \n"))
     z = r
     total = 1
     d = 1
